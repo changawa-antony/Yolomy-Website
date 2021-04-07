@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    background-image: url(/assets/backgrounds/hero.jpg);
+    height: 800px;
+}
+
+.nav-item{
+    color: white;
+    padding: 15px;
+}
+
+.navbar-nav{
+    flex-direction: row;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+
+.navbar{
+    height: 100px;
+}
+
+.jumbotron-fluid{
+    margin-top: 300px;
+    color: white;
+}
